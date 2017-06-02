@@ -1,4 +1,4 @@
-# maixon
-h1. Maixon CRM Inmobiliario
+# Maixon
+CRM Inmobiliario
 
 http://www.maixon.com
